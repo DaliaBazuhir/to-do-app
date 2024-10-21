@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:todo/widgets/task_title.dart';
 import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
-import 'package:todo/models/Task_Data.dart';
+import 'package:todo/models/task_data.dart';
 class TasksList extends StatelessWidget {
 
   @override

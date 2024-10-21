@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:todo/screens/AddTaskScreen.dart';
+import 'package:todo/screens/add_task_screen.dart';
 import 'package:todo/widgets/task_list.dart';
 import 'package:provider/provider.dart';
 
-import 'package:todo/models/Task_Data.dart';
+import 'package:todo/models/task_data.dart';
 
 class TasksScreen extends StatelessWidget {
   const TasksScreen({super.key});

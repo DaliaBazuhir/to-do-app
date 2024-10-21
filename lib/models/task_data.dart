@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'Task.dart';
+import 'task.dart';
 
 class TaskData extends ChangeNotifier{
   List<Task> tasks =[
